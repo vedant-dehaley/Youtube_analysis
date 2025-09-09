@@ -57,14 +57,4 @@
 - **Matplotlib** and **Seaborn:** Creating visualizations.
 - **Jupyter Notebooks:** Interactive data analysis.
 
-<!-- License -->
-## License 📜
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-<!-- Contact -->
-## Contact 📧
-
-For any questions, inquiries, or collaborations, feel free to reach out to us at [piinartp@gmail.com](mailto:piinartp@gmail.com). We'd love to hear from you!
-
 Happy Analyzing! 📊📈
